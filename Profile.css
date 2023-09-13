@@ -1,0 +1,81 @@
+
+.nav-link {
+    margin-right: 50px;
+}
+.font {
+    font-size: 1.5rem;  
+    margin-left: 2rem;
+    font-weight:bold ;
+}
+  #auto-typing-text {
+    background-image: linear-gradient(to right, #ff8a00, #ff0084);
+    -webkit-background-clip: text;
+    color: transparent;
+    display: inline-block;
+  }
+.Home {
+    padding: 8rem 0rem;
+}
+.p {
+ text-size-adjust: 10rem;
+}
+.card-text {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+.card {
+    border-radius: 1rem;
+   
+}
+.skills
+{
+    padding: rem;
+}
+.card-img-top {
+   object-fit: cover;
+}
+/* *{
+ border: 2px solid red;
+} */
+
+.iframe { 
+    width: auto;
+    height: 15rem;
+}
+.p img {
+    margin-left: 20px;
+}
+#Skills p {
+    font-size: larger;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+  }
+.color
+{
+    background-image: linear-gradient(to right, #ff8a00, #ff0084);
+    -webkit-background-clip: text;
+    color: transparent;
+   
+    font-weight: bold; 
+}
+
+.list-unstyled a {
+    text-decoration: none;
+    color: rgb(26, 25, 25);
+}
+* {
+    color:black;
+}
+.about {
+    text-align: -webkit-center;
+}
+.footer 
+{
+    text-align: -webkit-center;
+}
+.list-unstyled p {
+    
+    margin-right: 2rem;
+}
